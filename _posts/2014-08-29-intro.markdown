@@ -22,31 +22,34 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 <iframe width="960" height="615" src="https://www.youtube.com/embed/TtdQzkpmeGE?autoplay=0"> </iframe>
 </center>
 
+<br>
 
-
-Base de dados [8:02] (<a href="{{ site.baseurl }}/slides/Unid_1_P3.pdf" style="display:inline;">Slide</a>)
+ <h4 id="{{cat}}" style="display:inline;">3 - Base de dados <font color="gray">[8:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P3.pdf" style="display:inline;" style="color:steelblue">Slide</a>) </h4> 
 
 <center>
 <iframe width="960" height="615" src="https://www.youtube.com/embed/_JhlVu9e07A?autoplay=0"> </iframe>
 </center>
 
+<br>
 
-Como selecionar uma amostra [9:05] (<a href="{{ site.baseurl }}/slides/Unid_1_P4.pdf" style="display:inline;">Slide</a>)
+ <h4 id="{{cat}}" style="display:inline;">4 - Como selecionar uma amostra <font color="gray">[9:05]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P4.pdf" style="display:inline;" style="color:steelblue">Slide</a>) </h4> 
 
 <center>
 <iframe width="960" height="615" src="https://www.youtube.com/embed/GvZFNp48H5U?autoplay=0"> </iframe>
 </center>
 
+<br>
 
-Amostragem probabilística [13:36] (<a href="{{ site.baseurl }}/slides/Unid_1_P5.pdf" style="display:inline;">Slide</a>)
+ <h4 id="{{cat}}" style="display:inline;">5 - Amostragem probabilística <font color="gray">[13:36]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P5.pdf" style="display:inline;" style="color:steelblue">Slide</a>) </h4> 
 
 <center>
 <iframe width="960" height="615" src="https://www.youtube.com/embed/PRKjIGr7Kn4?autoplay=0"> </iframe>
 </center>
 
+<br>
 
-Amostragem não probabilística [7:56] (<a href="{{ site.baseurl }}/slides/Unid_1_P6.pdf" style="display:inline;">Slide</a>)
-
+ <h4 id="{{cat}}" style="display:inline;">6 - Amostragem não probabilística <font color="gray">[7:56]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P6.pdf" style="display:inline;" style="color:steelblue">Slide</a>) </h4> 
+ 
 <center>
 <iframe width="960" height="615" src="https://www.youtube.com/embed/FbgXcsgrpXw?autoplay=0"> </iframe>
 </center>
