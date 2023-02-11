@@ -4,7 +4,7 @@ title:  "Unidade 1"
 date:   2014-08-29 14:34:25
 categories: jekyll update
 tags: featured
-image: /assets/article_images/ufpr-fundo-16x9.jpg
+image: /assets/images/ufpr-fundo-16x9.jpg
 ---
 
 
