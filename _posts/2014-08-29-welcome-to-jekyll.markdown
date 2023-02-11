@@ -14,7 +14,7 @@ image: /assets/article_images/bdd1df3a-ufpr-imagem.jpg
    <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
    </center>
 
-</br>
+<br>
 
  <h4 id="{{cat}}" style="display:inline;">Definição dos objetivos <font color="gray">[8:14]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P2.pdf" style="display:inline;">Slide</a>) </h4> 
  
