@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introdução"
-date:   2022-01-29 14:34:59
+title:  "Probabilidade"
+date:   2022-01-29 14:34:57
 categories: aulas
 tags: featured
 image: /assets/images/ufpr-fundo-16x9.jpg
