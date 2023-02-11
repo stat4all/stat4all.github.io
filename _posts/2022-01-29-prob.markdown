@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Probabilidade"
+title:  "3 - Probabilidade"
 date:   2022-01-29 14:34:57
 categories: aulas
 tags: featured
