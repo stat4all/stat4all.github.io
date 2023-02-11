@@ -8,11 +8,14 @@ image: /assets/article_images/bdd1df3a-ufpr-imagem.jpg
 ---
 
 
-Apresentação [13:02] (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;">Slide</a>)
+ <h3 id="{{cat}}" style="display:inline;">Apresentação <font color="gray">[13:02]</font></h3> 
+   <strong>
+			(<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;">Slide</a>)
+		</strong>	
 
-<center>
-<iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
-</center>
+    <center>
+    <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
+    </center>
 
 
 Definição dos objetivos [8:14] (<a href="{{ site.baseurl }}/slides/Unid_1_P2.pdf" style="display:inline;">Slide</a>)
