@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Distribuição de probabilidades"
+title:  "5 - Distribuição de probabilidades"
 date:   2022-01-29 14:34:55
 categories: aulas
 tags: featured
