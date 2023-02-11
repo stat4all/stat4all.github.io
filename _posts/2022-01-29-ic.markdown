@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intervalo de confiança"
+title:  "6 - Intervalo de confiança"
 date:   2022-01-29 14:34:54
 categories: aulas
 tags: featured
