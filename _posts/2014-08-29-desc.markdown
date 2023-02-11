@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introdução"
+title:  "Análise exploratória de dados"
 date:   2014-08-29 14:34:58
 categories: aulas
 tags: featured
