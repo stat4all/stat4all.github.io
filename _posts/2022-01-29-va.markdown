@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Variáveis aleatórias"
+title:  "4 - Variáveis aleatórias"
 date:   2022-01-29 14:34:56
 categories: aulas
 tags: featured
