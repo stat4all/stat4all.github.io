@@ -8,6 +8,10 @@ title: Introdução à Estatística
 description: > # this means to ignore newlines until "email:"
    ''to make great leaps in data science research in order to change the world for the better'' 
 
+email: e.ferreira@ufpr.br
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/ufpr-fundo-16x9.jpg"
