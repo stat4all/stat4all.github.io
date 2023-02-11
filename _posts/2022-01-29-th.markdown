@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testes de hipóteses"
+title:  "7 - Testes de hipóteses"
 date:   2022-01-29 14:34:53
 categories: aulas
 tags: featured
