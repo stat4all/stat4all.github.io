@@ -2,13 +2,11 @@
 layout: post
 title:  "Unidade 1"
 date:   2022-03-10 14:34:25
-categories: jekyll update
-tags: featured
 image: /assets/article_images/bdd1df3a-ufpr-imagem.jpg
 ---
 
 
- <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;" color="blue">Slide</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;">Slide</a>) </h4> 
  
    <center>
    <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
