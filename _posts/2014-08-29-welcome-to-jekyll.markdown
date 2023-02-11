@@ -7,7 +7,7 @@ tags: featured
 image: /assets/article_images/bdd1df3a-ufpr-imagem.jpg
 ---
 
-Aula 1 
+Aula 1 (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;">Slide </a>)
 
 <center>
 <iframe width="960" height="615" src="https://www.youtube.com/embed/_DDxf8xUl3o?autoplay=0"> </iframe>
