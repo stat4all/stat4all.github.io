@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Análise exploratória de dados"
+title:  "2 - Análise exploratória de dados"
 date:   2022-01-29 14:34:58
 categories: aulas
 tags: featured
