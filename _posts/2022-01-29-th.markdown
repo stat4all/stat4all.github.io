@@ -24,7 +24,7 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 
 <br>
 
- <h4 id="{{cat}}" style="display:inline;">3 - Nível de significânciaa <font color="gray">[17:03]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">3 - Nível de significância <font color="gray">[17:03]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
 
 <center>
 <iframe width="960" height="615" src="https://www.youtube.com/embed/kBltPZiecXc?autoplay=0"> </iframe>
