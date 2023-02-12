@@ -40,7 +40,7 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 
 <br>
 
- <h4 id="{{cat}}" style="display:inline;">5 - Introdução às medidas resumo <font color="gray">[07:05]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">5 - Introdução às medidas resumo <font color="gray">[07:05]</font> (<a href="{{ site.baseurl }}/slides/Unid_2_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
 
 <center>
 <iframe width="960" height="615" src="https://www.youtube.com/embed/vy9HHdUL6d8?autoplay=0"> </iframe>
