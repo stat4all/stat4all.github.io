@@ -8,10 +8,82 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 ---
 
 
- <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+h4 id="{{cat}}" style="display:inline;">1 - Visão geral sobre teste de hipótese <font color="gray">[15:26]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
    <center>
-   <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
+   <iframe width="960" height="615" src="https://www.youtube.com/embed/mXy9tRI92PQ?autoplay=0"> </iframe>
    </center>
 
 <br>
+
+ <h4 id="{{cat}}" style="display:inline;">2 - Hipóteses nula e alternativa <font color="gray">[14:08]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P2.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/Ywy7WrVjGpo?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">3 - Nível de significânciaa <font color="gray">[17:03]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/kBltPZiecXc?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">4 - Determinação da região crítica <font color="gray">[17:47]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P4.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/mvRXJMmZnhk?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">5 - Estatística de teste <font color="gray">[21:46]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/oaNoMHs61zg?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">6 - P-valor ou nível descritivo <font color="gray">[19:03]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P6.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/oFyJZlGhF2Y?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">7 - Teste de hipótese para duas populações com variância conhecida <font color="gray">[15:17]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P7.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/TXcbvNRJKZ4?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">8 - Teste de hipótese para duas populações com variância desconhecida <font color="gray">[17:41]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P8.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/nV5InauANww?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">9 - Teste de hipótese para a diferença das proporções populacionais <font color="gray">[13:07]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P9.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/zMYlI9n-B0k?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">10 - Teste de hipótese para a razão de duas variâncias populacionais <font color="gray">[05:39]</font> (<a href="{{ site.baseurl }}/slides/Unid_7_P10.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/TOhGn4ceHbo?autoplay=0"> </iframe>
+</center>
+
+
