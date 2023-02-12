@@ -8,10 +8,56 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 ---
 
 
- <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">1 - Teoria de conjuntos <font color="gray">[13:29]</font> (<a href="{{ site.baseurl }}/slides/Unid_3_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
    <center>
-   <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
+   <iframe width="960" height="615" src="https://www.youtube.com/embed/IxGjPubFUOA?autoplay=0"> </iframe>
    </center>
 
 <br>
+
+ <h4 id="{{cat}}" style="display:inline;">2 - Espaço amostral <font color="gray">[12:52]</font> (<a href="{{ site.baseurl }}/slides/Unid_3_P2.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/8anWto8P30I?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">3 - Operações com eventos <font color="gray">[14:27]</font> (<a href="{{ site.baseurl }}/slides/Unid_3_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/2g5-ZFJSc8o?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">4 - Probabilidade condicional e lei da probabilidade total <font color="gray">[20:23]</font> (<a href="{{ site.baseurl }}/slides/Unid_3_P4.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/rCo4gLhaXuU?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">5 - Exercícios sobre probabilidade condicional <font color="gray">[13:08]</font> (<a href="{{ site.baseurl }}/slides/Unid_3_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/9zXvp3NFEuY?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">6 - Conceito de independência <font color="gray">[09:42]</font> (<a href="{{ site.baseurl }}/slides/Unid_3_P6.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/xRktZ0QxxQ8?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">7 - Regra de Bayes <font color="gray">[16:49]</font> (<a href="{{ site.baseurl }}/slides/Unid_3_P7.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/MkUgxjAZrLQ?autoplay=0"> </iframe>
+</center>
