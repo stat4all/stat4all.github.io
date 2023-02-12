@@ -8,10 +8,65 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 ---
 
 
- <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">1 - Distribuição Uniforme discreta, Bernoulli e Binomial <font color="gray">[22:28]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
    <center>
-   <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
+   <iframe width="960" height="615" src="https://www.youtube.com/embed/IwNTx4zL8gs?autoplay=0"> </iframe>
    </center>
 
 <br>
+
+ <h4 id="{{cat}}" style="display:inline;">2 - Distribuição Hipergeométrica <font color="gray">[18:11]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P2.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/a212qSyKHoo?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">3 - Distribuição de Poisson <font color="gray">[08:52]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/FDhdYq15AD0?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">4 - Distribuição Geométrica e Binomial Negativa <font color="gray">[17:22]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P4.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/Jh2DIJaVWs4?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">5 - Distribuição Uniforme e Exponencial <font color="gray">[21:20]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/gVyTTFVMePQ?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">6 - Distribuição Normal (parte 1) <font color="gray">[10:01]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P6.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/4aeIjC3P8EY?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">7 - Distribuição Normal (parte 2) <font color="gray">[20:09]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P7.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/BSvTOdlkba4?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">8 - Aproximação da distribuição Binomial pela Normal <font color="gray">[13:55]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P8.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/GVcvgITFyJ0?autoplay=0"> </iframe>
+</center>
+
