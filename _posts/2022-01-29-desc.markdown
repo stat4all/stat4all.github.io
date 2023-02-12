@@ -8,48 +8,57 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 ---
 
 
- <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">1 - Tipos de variáveis <font color="gray">[16:00]</font> (<a href="{{ site.baseurl }}/slides/Unid_2_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
    <center>
-   <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
+   <iframe width="960" height="615" src="https://www.youtube.com/embed/dJ7k12gO7Uo?autoplay=0"> </iframe>
    </center>
 
 <br>
 
- <h4 id="{{cat}}" style="display:inline;">2 - Definição dos objetivos <font color="gray">[8:14]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P2.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">2 - Tabela de frequência <font color="gray">[26:45]</font> (<a href="{{ site.baseurl }}/slides/Unid_2_P2.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
 <center>
-<iframe width="960" height="615" src="https://www.youtube.com/embed/TtdQzkpmeGE?autoplay=0"> </iframe>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/sd_U8MY9KP0?autoplay=0"> </iframe>
 </center>
 
 <br>
 
- <h4 id="{{cat}}" style="display:inline;">3 - Base de dados <font color="gray">[8:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">3 - Gráficos para variáveis qualitativas <font color="gray">[14:59]</font> (<a href="{{ site.baseurl }}/slides/Unid_2_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
 
 <center>
-<iframe width="960" height="615" src="https://www.youtube.com/embed/_JhlVu9e07A?autoplay=0"> </iframe>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/lPp9MroMjRc?autoplay=0"> </iframe>
 </center>
 
 <br>
 
- <h4 id="{{cat}}" style="display:inline;">4 - Como selecionar uma amostra <font color="gray">[9:05]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P4.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">4 - Gráficos para variáveis quantitativas <font color="gray">[19:09]</font> (<a href="{{ site.baseurl }}/slides/Unid_2_P4.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
 
 <center>
-<iframe width="960" height="615" src="https://www.youtube.com/embed/GvZFNp48H5U?autoplay=0"> </iframe>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/fbxVbmV4zgI?autoplay=0"> </iframe>
 </center>
 
 <br>
 
- <h4 id="{{cat}}" style="display:inline;">5 - Amostragem probabilística <font color="gray">[13:36]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">5 - Introdução às medidas resumo <font color="gray">[07:05]</font> (<a href="{{ site.baseurl }}/slides/Unid_5_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
 
 <center>
-<iframe width="960" height="615" src="https://www.youtube.com/embed/PRKjIGr7Kn4?autoplay=0"> </iframe>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/vy9HHdUL6d8?autoplay=0"> </iframe>
 </center>
 
 <br>
 
- <h4 id="{{cat}}" style="display:inline;">6 - Amostragem não probabilística <font color="gray">[7:56]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P6.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ <h4 id="{{cat}}" style="display:inline;">6 - Medidas resumo de posição <font color="gray">[18:57]</font> (<a href="{{ site.baseurl }}/slides/Unid_2_P6.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
 <center>
-<iframe width="960" height="615" src="https://www.youtube.com/embed/FbgXcsgrpXw?autoplay=0"> </iframe>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/lF45gsWRRzY?autoplay=0"> </iframe>
 </center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">7 - Medidas resumo de dispersão e box-plots <font color="gray">[21:59]</font> (<a href="{{ site.baseurl }}/slides/Unid_2_P7.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/8Le8BRuyQvQ?autoplay=0"> </iframe>
+</center>
+
