@@ -8,10 +8,88 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 ---
 
 
- <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+<h4 id="{{cat}}" style="display:inline;">1 - Distribuição amostral da média com variância conhecida <font color="gray">[19:45]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
    <center>
-   <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
+   <iframe width="960" height="615" src="https://www.youtube.com/embed/IpqzKr4YKFM?autoplay=0"> </iframe>
    </center>
 
 <br>
+
+ <h4 id="{{cat}}" style="display:inline;">2 - Distribuição amostral da proporção <font color="gray">[13:19]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P2.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/qZv3nfeBjGw?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">3 - Distribuição amostral da média com variância desconhecida <font color="gray">[12:57]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/hPvfxDmHtjg?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">4 - Distribuição amostral para a variância <font color="gray">[07:44]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P4.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/74G8CIuw-KQ?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">5 - Estimação pontual e intervalo de confiança (introdução) <font color="gray">[08:28]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/jKXiT7IcwGY?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">6 - Intervalo de confiança para a média com variância conhecida <font color="gray">[16:57]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P6.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/Vw5C2lwmjQA?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">7 - Intervalo de confiança para a média com variância desconhecida <font color="gray">[07:23]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P7.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/knRZcfY6tYQ?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">8 - Intervalo de confiança para a proporção <font color="gray">[08:01]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P8.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/iThmm9cZOHo?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">9 - Intervalo de confiança para a variância <font color="gray">[06:24]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P9.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/Ol71dVF5leA?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">10 - Tamanho amostral (parte 1) <font color="gray">[17:07]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P10.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/F9anvJ-CBk8?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">11 - Tamanho amostral (parte 2) <font color="gray">[12:17]</font> (<a href="{{ site.baseurl }}/slides/Unid_6_P11.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/a0Spru0ehlc?autoplay=0"> </iframe>
+</center>
