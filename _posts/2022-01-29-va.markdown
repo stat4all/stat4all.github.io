@@ -8,10 +8,72 @@ image: /assets/images/ufpr-fundo-16x9.jpg
 ---
 
 
- <h4 id="{{cat}}" style="display:inline;">1 - Apresentação <font color="gray">[13:02]</font> (<a href="{{ site.baseurl }}/slides/Unid_1_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+<h4 id="{{cat}}" style="display:inline;">1 - Conceito de variáveis aleatórias <font color="gray">[04:47]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P1.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
  
    <center>
-   <iframe width="960" height="615" src="https://www.youtube.com/embed/taCNu95IDQc?autoplay=0"> </iframe>
+   <iframe width="960" height="615" src="https://www.youtube.com/embed/QDaJIGC7sQE?autoplay=0"> </iframe>
    </center>
 
 <br>
+
+ <h4 id="{{cat}}" style="display:inline;">2 - Função de distribuição de probabilidade <font color="gray">[19:35]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P2.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/dDzXuc6QSf8?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">3 - Função de distribuição acumulada para variável discreta <font color="gray">[15:06]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P3.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/HZKlFcOuHjs?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">4 - Exemplos sobre distribuição de probabilidade <font color="gray">[08:01]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P4.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/RfYhiMBXa0k?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">5 - Função densidade de probabilidade <font color="gray">[14:57]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P5.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/tSvzXRyAHjQ?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">6 - Função de distribuição acumulada para variável contínua <font color="gray">[15:33]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P6.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/gFoBvt5_6Js?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">7 - Esperança de uma variável aleatória discreta <font color="gray">[18:48]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P7.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/JUkUKsPaqk4?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">8 - Variância de uma variável aleatória discreta <font color="gray">[22:45]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P8.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/Qp4nNNELpTw?autoplay=0"> </iframe>
+</center>
+
+<br>
+
+ <h4 id="{{cat}}" style="display:inline;">9 - Esperança e variância de uma variável aleatória contínua <font color="gray">[08:57]</font> (<a href="{{ site.baseurl }}/slides/Unid_4_P9.pdf" style="display:inline;" style="color:steelblue">Slides</a>) </h4> 
+ 
+<center>
+<iframe width="960" height="615" src="https://www.youtube.com/embed/CneJVaRpm7Q?autoplay=0"> </iframe>
+</center>
